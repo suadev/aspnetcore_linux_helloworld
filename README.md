@@ -1,3 +1,5 @@
 # Welcome to ASP.NET Core
 
-https://github.com/suadev/aspnetcore_linux_helloworld/blob/master/ss.png
+<img width="500" src="https://github.com/suadev/aspnetcore_linux_helloworld/blob/master/ss.png" alt="awesome" />
+
+
